@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PUBLIC_plataform-education/static/css/main.0bb786ec.css",
+    "main.js": "/PUBLIC_plataform-education/static/js/main.dd06ebe4.js",
+    "index.html": "/PUBLIC_plataform-education/index.html",
+    "main.0bb786ec.css.map": "/PUBLIC_plataform-education/static/css/main.0bb786ec.css.map",
+    "main.dd06ebe4.js.map": "/PUBLIC_plataform-education/static/js/main.dd06ebe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bb786ec.css",
+    "static/js/main.dd06ebe4.js"
+  ]
+}
